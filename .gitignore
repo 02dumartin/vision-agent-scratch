@@ -38,3 +38,12 @@ Thumbs.db
 # Logs
 *.log
 
+
+# .gitignore에 추가해야 할 항목들
+.env
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.egg-info/
+uv.lock
